@@ -13,16 +13,17 @@ for(i=0;i<fa;i++)
 {
 	for(j=0;j<la;j++)
 	{
-		
+
 		cin>>arr[i][j];
 	}
 }
-cout<<"Array:\n";
+
 for(i=0;i<fa;i++)
 {
 	for(j=0;j<la;j++)
 	{
 		cout<<arr[i][j];
 	}
+	cout<<'\n';
 }
 	}
